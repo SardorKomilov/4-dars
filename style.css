@@ -1,0 +1,127 @@
+*{
+    font-size:30px ;
+}
+body {
+ background-image: url("Bg.png");
+ background-color: black;
+}
+.login{
+box-sizing: border-box;
+position: absolute;
+width: 560px;
+height: 750px;
+left: 580px;
+top:80px;
+background: linear-gradient(120.37deg, rgba(239, 239, 239, 0.6) 0%, rgba(255, 255, 255, 0.1) 100%);
+border: 1px solid #EFEFEF;
+backdrop-filter: blur(60px);
+border-radius: 25px;
+}
+.txt1{
+    position: absolute;
+width: 409px;
+height: 69px;
+left: 130px;
+top: 50px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 68px;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+text-shadow: 15px 12px 50px rgba(0, 0, 0, 0.3);
+}
+.lop{
+   background-color: white;
+   height: 2px;
+   width: 500px;
+   margin-top: 150px;
+   margin-left:30px;
+}
+.user{
+    position: absolute;
+width: 200px;
+height: 46px;
+left: 22px;
+top: 150px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 34px;
+line-height: 51px;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+text-shadow: 15px 12px 50px rgba(0, 0, 0, 0.3);
+}
+.int{
+    position: absolute;
+width: 500px;
+height: 50px;
+top: 100px;
+
+background: linear-gradient(120.37deg, rgba(239, 239, 239, 0.048) 0%, rgba(255, 255, 255, 0.008) 100%);
+border: 2px solid #EFEFEF;
+box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.25);
+border-radius: 25px;
+font-size: 30px;
+
+}
+.lol{
+    position: absolute;
+    width: 211px;
+    height: 46px;
+    left: 22px;
+    top: 370px;
+    
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 51px;
+    letter-spacing: 0.03em;
+    
+    color: #FFFFFF;
+    
+    text-shadow: 15px 12px 50px rgba(0, 0, 0, 0.3);
+}
+.pp{
+    background: linear-gradient(120.37deg, rgba(221, 122, 5, 0.8) 0%, rgba(236, 25, 164, 0.8) 100%);
+    border: 2px solid #EFEFEF;
+    box-shadow: 0px 4px 25px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;    
+    width: 200px;
+    height: 60px;
+    font-size: 30px;
+    margin-top: 400px;
+    margin-left: 250px;
+    cursor: pointer;
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+.tb{
+    color: #FFFFFF;
+    margin-left: 260px;
+    font-family: sans-serif;
+    font-size: 20px;    
+}
+.mm{
+margin-left: -60px;
+font-size: 25px;
+
+}
+.alo{
+    margin-left: 70px;
+    font-size: 20px;
+    margin-top: 45px;
+    color: #EFEFEF;
+}
+.ah{
+    color: #119BFF;
+}
